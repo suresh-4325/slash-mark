@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa; /* Light gray background color */
+}
+
+.container {
+    margin-top: 50px; /* Add space from the top */
+}
+
+.card {
+    background-color: #fff; /* White background color for cards */
+    border-radius: 10px; /* Rounded corners for cards */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.card-title {
+    color: #007bff; /* Blue color for card titles */
+    font-weight: bold; /* Bold font weight for card titles */
+}
+
+.card-text {
+    color: #6c757d; /* Gray color for card text */
+}
+
+.text-muted {
+    color: #adb5bd; /* Light gray color for muted text */
+}
+p{
+    color:black;
+}

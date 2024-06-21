@@ -1,0 +1,41 @@
+header {
+            background-color: #5b5a5a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            color:blue;
+            font-size:25px;
+            text-align:center;
+        }
+        li {
+            margin-bottom: 10px;
+            font-size:25px;
+
+.card{
+    background-color:#504c4c;
+}
+        }
+        .card-footer {
+            margin-top: 20px; 
+            background-color:#3b3939;
+            color:rgb(13, 13, 14);
+            font-size:18px;
+            text-align:center;
+            padding:20px;
+           font-size:20px;
+           font-weight:bolder;
+        }
+        
+        img{
+            margin-left:5px;
+            text-align:center;
+            height:80px;
+            width:80px;
+        }

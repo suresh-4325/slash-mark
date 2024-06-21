@@ -1,0 +1,38 @@
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #007bff; 
+    font-weight: bold; 
+}
+
+
+.card-body {
+    background-color: #f1f2f4; 
+    padding: 20px; 
+    color:black;
+}
+
+.card-footer {
+    margin-top: 20px; 
+    background-color:#898787;
+    color:rgb(13, 13, 14);
+    font-size:18px;
+    text-align:center;
+    padding:25px;
+   font-size:20px;
+   font-weight:bolder;
+}
+.card-body ul li {
+    color: #0e0e0f; 
+    margin-bottom: 10px; 
+    font-size:18px;
+    
+    font-weight:bold;
+    background-color:#dcd8d8;
+    
+    
+}

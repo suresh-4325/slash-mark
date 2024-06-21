@@ -1,0 +1,32 @@
+
+
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.card-title {
+    color: #007bff; 
+    font-weight: bold; 
+}
+
+
+.card-body {
+    background-color: #bdc0c3; 
+    padding: 20px; 
+}
+
+
+.card-body ul li {
+    
+    margin-bottom: 10px; 
+}
+.list-unstyled{
+    background-color:#e2e4e6;
+    font-size:19px;rgb(239, 245, 248)
+    color:black;
+    font-weight:bold;
+    
+}
